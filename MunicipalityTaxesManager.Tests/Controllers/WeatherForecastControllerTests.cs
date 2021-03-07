@@ -12,6 +12,7 @@ namespace MunicipalityTaxesManager.Controllers.Tests
         [TestMethod()]
         public void WeatherForecastControllerTest()
         {
+
             Assert.Fail();
         }
 
