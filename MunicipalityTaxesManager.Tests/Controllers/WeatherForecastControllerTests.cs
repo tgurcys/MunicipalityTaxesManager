@@ -9,17 +9,17 @@ namespace MunicipalityTaxesManager.Controllers.Tests
     [TestClass()]
     public class WeatherForecastControllerTests
     {
-        [TestMethod()]
-        public void WeatherForecastControllerTest()
-        {
+        //[TestMethod()]
+        //public void WeatherForecastControllerTest()
+        //{
 
-            Assert.Fail();
-        }
+        //    Assert.Fail();
+        //}
 
-        [TestMethod()]
-        public void GetTest()
-        {
-            Assert.Fail();
-        }
+        //[TestMethod()]
+        //public void GetTest()
+        //{
+        //    Assert.Fail();
+        //}
     }
 }

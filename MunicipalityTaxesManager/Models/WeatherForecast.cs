@@ -1,6 +1,6 @@
 using System;
 
-namespace MunicipalityTaxesManager
+namespace MunicipalityTaxesManager.Models
 {
     public class WeatherForecast
     {
